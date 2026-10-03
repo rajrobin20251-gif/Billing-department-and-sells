@@ -1,0 +1,32 @@
+Dear Customer,
+
+Thank you for your order. Please find the service information below for your records.
+
+**ORDER DETAILS**
+
+📅 Date : September 24, 2026
+🧾 Reference : INV-2026-450-TS
+📦 Service : Norton 360 Premium+
+💳 Total : USD 390.00
+
+**SERVICE FEATURES**
+
+🖥️ Device setup assistance
+🚀 Performance checks
+🔐 Security support
+🛠️ Troubleshooting assistance
+📡 Network connectivity assistance
+📞 Customer support
+
+**SUPPORT**
+
+For questions regarding this order or assistance with your service, please contact:
+
+☎️ +1(856)479-8670
+
+Thank you.
+
+Customer Support Team
+
+*This service is provided by an independent technical support provider and is not directly operated by Norton.*
+
